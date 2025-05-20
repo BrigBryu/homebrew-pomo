@@ -1,8 +1,8 @@
 class Pomo < Formula
   desc "Terminal pomodoro timer with color config persistence"
   homepage "https://github.com/BrigBryu/pomo"
-  url      "https://github.com/BrigBryu/pomo/archive/refs/tags/v1.0.0.tar.gz"
-  sha256   "4e49cbaaa40948c6b1dea7c77357e5314cda7450e77878238f21078e78dbb6bb"
+  url      "https://github.com/BrigBryu/pomo/archive/refs/tags/v1.0.3.tar.gz"
+  sha256   "7c55e9c6557ca8195ebc81ca4023b9d5ddef6fdb0f5095132ae1c58dd5cb7cfe"
   license  "MIT"
 
   def install
